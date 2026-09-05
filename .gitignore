@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# The cached snapshot and generated map are reproducible via the app
+# itself, so they aren't committed by default.
+data/cached_earthquakes_snapshot.json
+data/earthquake_map.html
+
+.DS_Store
+.streamlit/secrets.toml

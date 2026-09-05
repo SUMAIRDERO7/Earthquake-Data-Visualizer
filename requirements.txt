@@ -1,0 +1,6 @@
+requests>=2.31
+folium>=0.20
+streamlit-folium>=0.24
+pandas>=2.2
+streamlit>=1.38
+pytest>=8.0
