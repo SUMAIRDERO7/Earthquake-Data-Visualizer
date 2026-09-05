@@ -869,5 +869,3 @@ This project was developed as part of a continuous portfolio-building journey fo
 If you find this project useful or interesting, consider giving the repository a ⭐ on GitHub.
 
 Your feedback and contributions are welcome.
-#   E a r t h q u a k e - D a t a - V i s u a l i z e r  
- 
